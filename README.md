@@ -119,15 +119,12 @@ StockTracker/
 
 ---
 
-## 📝 **License**
-📚 This project is licensed under **MIT License**.  
-
 ---
 
 ## 💬 **Need Help?**
-📩 **Contact**: [Your Email]  
-📎 **LinkedIn**: [Your Profile]  
-📌 **GitHub Issues**: [Open an issue](#)  
+📩 **Contact**: shemalshakil7128@gmail.com  
+
+
 
 ---
 
