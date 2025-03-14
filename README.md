@@ -111,7 +111,7 @@ StockTracker/
 🖼️ Screenshots available in `docs/screenshots/`  
 
 ### Login
-![Alt Text](./images/login.png)
+![Alt Text](./images/LoginPage.jpeg)
 
 
 ---
