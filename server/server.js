@@ -16,8 +16,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB Connection String
-const uri = "mongodb+srv://abhijeet:9572Abhi@cluster1.lqxhget.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1";
-
+const uri = "mongodb+srv://shemalshakil7128:shemal786@cluster0.txs4k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 console.log("Connecting to MongoDB Atlas...");
 MongoClient.connect(uri, { useUnifiedTopology: true })
   .then((client) => {
