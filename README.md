@@ -110,6 +110,10 @@ StockTracker/
 📌 **[Watch Demo Here](#)**  
 🖼️ Screenshots available in `docs/screenshots/`  
 
+### Login
+![Alt Text](./images/login.png)
+
+
 ---
 
 ## 🤝 **Contributing**
