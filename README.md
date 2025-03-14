@@ -113,6 +113,23 @@ StockTracker/
 ### Login
 ![Alt Text](./images/LoginPage.jpeg)
 
+### SignUp
+![Alt Text](./images/SignupPage.jpeg)
+
+### Dashboard
+![Alt Text](./images/Portfolio1.jpeg)
+
+### Portfolio Shares Distribution Graph
+![Alt Text](./images/PortfolioDistribution.jpeg)
+
+### Bar Graph Demonstrating Investments
+![Alt Text](./images/BarGraph.jpeg)
+
+### TimeSpan Graph of Stocks
+![Alt Text](./images/TimeSpanGraphShare.jpeg)
+
+### Realtime Stock Data using Alpha Vantage APIs
+![Alt Text](./images/RealTimeStock.jpeg)
 
 ---
 
