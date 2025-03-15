@@ -107,8 +107,8 @@ StockTracker/
 ---
 
 ## 🎥 **Demo Video & Screenshots**
-📌 **[Watch Demo Here](#)**  
-[Watch Demo Video Here]([https://link-to-your-video](https://share.vidyard.com/watch/2JDNEXr7z8NF3r2xzQ5zrk))
+📌 **[Watch Demo Here](https://share.vidyard.com/watch/2JDNEXr7z8NF3r2xzQ5zrk)**  
+
 🖼️ Screenshots available in `docs/screenshots/`  
 
 ### Login
